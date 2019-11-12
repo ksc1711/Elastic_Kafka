@@ -1,0 +1,6 @@
+D:\01.Source\TOUR.CLAS\TOUR.MIS\TOUR.MIS\bin\Release\TOUR.MIS.exe.config
+D:\01.Source\TOUR.CLAS\TOUR.MIS\TOUR.MIS\bin\Release\TOUR.MIS.exe
+D:\01.Source\TOUR.CLAS\TOUR.MIS\TOUR.MIS\bin\Release\TOUR.MIS.pdb
+D:\01.Source\TOUR.CLAS\TOUR.MIS\TOUR.MIS\obj\Release\TOUR.MIS.exe
+D:\01.Source\TOUR.CLAS\TOUR.MIS\TOUR.MIS\obj\Release\TOUR.MIS.pdb
+D:\01.Source\TOUR.CLAS\TOUR.MIS\TOUR.MIS\obj\Release\TOUR.MIS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\01.Source\TOUR.ELK\TOUR.ELK.BOT\TOUR.ELK.BOT\bin\Debug\TOUR.ELK.BOT.exe.config
+D:\01.Source\TOUR.ELK\TOUR.ELK.BOT\TOUR.ELK.BOT\bin\Debug\TOUR.ELK.BOT.exe
+D:\01.Source\TOUR.ELK\TOUR.ELK.BOT\TOUR.ELK.BOT\bin\Debug\TOUR.ELK.BOT.pdb
+D:\01.Source\TOUR.ELK\TOUR.ELK.BOT\TOUR.ELK.BOT\bin\Debug\System.Net.Json.dll
+D:\01.Source\TOUR.ELK\TOUR.ELK.BOT\TOUR.ELK.BOT\obj\Debug\TOUR.ELK.BOT.exe
+D:\01.Source\TOUR.ELK\TOUR.ELK.BOT\TOUR.ELK.BOT\obj\Debug\TOUR.ELK.BOT.pdb
+D:\01.Source\TOUR.ELK\TOUR.ELK.BOT\TOUR.ELK.BOT\obj\Debug\TOUR.ELK.BOT.csprojResolveAssemblyReference.cache
+D:\01.Source\TOUR.ELK\TOUR.ELK.BOT\TOUR.ELK.BOT\bin\Debug\TOUR.ELK.BOT.exe.manifest
+D:\01.Source\TOUR.ELK\TOUR.ELK.BOT\TOUR.ELK.BOT\bin\Debug\TOUR.ELK.BOT.application
+D:\01.Source\TOUR.ELK\TOUR.ELK.BOT\TOUR.ELK.BOT\obj\Debug\TOUR.ELK.BOT.exe.manifest
+D:\01.Source\TOUR.ELK\TOUR.ELK.BOT\TOUR.ELK.BOT\obj\Debug\TOUR.ELK.BOT.application
